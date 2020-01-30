@@ -1,4 +1,4 @@
-# AWS Site-to-site VPN Notes
+# AWS Site-to-Site VPN Notes
 
 ## (Prerequisites for testing) Launch EC2 Instance in another AWS Account/Region
 - Linux, m4.large instance
